@@ -10,3 +10,4 @@
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/refint/eCommerce.SharedLibrary.dll
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.pdb
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/ref/eCommerce.SharedLibrary.dll
+/Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.sourcelink.json
