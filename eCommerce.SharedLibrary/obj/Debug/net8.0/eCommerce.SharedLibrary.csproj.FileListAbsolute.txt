@@ -6,8 +6,8 @@
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.AssemblyInfoInputs.cache
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.AssemblyInfo.cs
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.sourcelink.json
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.dll
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/refint/eCommerce.SharedLibrary.dll
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.pdb
 /Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/ref/eCommerce.SharedLibrary.dll
-/Users/tomasdziurdzia/Desktop/Proyectos/eCommerceNET.SharedLibrarySolution/eCommerce.SharedLibrary/obj/Debug/net8.0/eCommerce.SharedLibrary.sourcelink.json
